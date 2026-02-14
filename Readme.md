@@ -4,7 +4,7 @@
   <img src="https://brandlogos.net/wp-content/uploads/2026/01/spring_boot_symbol-logo_brandlogos.net_tkqz9-300x300.png" />
 </p>
 
-This repo help me understand how basic CRUD operation works on spring boot, it's a little bit tricky implementing it but i'll get trhough it just like another api framework that i have tackle.
+This repo help me understand how basic CRUD operation works on spring boot, it's a little bit tricky implementing it but i'll get through it just like another api framework that i have tackled.
 
 ## How to run spring boot
 
